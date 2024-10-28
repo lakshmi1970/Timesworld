@@ -7,7 +7,7 @@
  */
 @font-face {
   font-family: "felix_titlingregular";
-  src: url("../src/fonts/felixti-webfont.woff2") format("woff2"), url("../src/fonts/felixti-webfont.woff") format("woff");
+  src: url("../fonts/felixti-webfont.woff2") format("woff2"), url("../fonts/felixti-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
